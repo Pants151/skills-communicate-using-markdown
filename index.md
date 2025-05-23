@@ -11,4 +11,8 @@
 String saludo = "Hola que tal estan gente";
 ```
 
+- [ ] Hacer los deberes
+- [ ] Estudiar
+- [X] Sacar al perro
+
 He añadido unos cuantos headers, luego he puesto este comentario de abajo y ahora voy a hacer un commit.
